@@ -1,0 +1,6 @@
+WeldGraph.RPM[1]
+WeldGraph.Pressure[1]
+WeldGraph.Upset[1]
+
+
+
